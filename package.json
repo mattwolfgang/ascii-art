@@ -1,0 +1,19 @@
+{
+  "name": "ascii-art",
+  "main": "./lib/ascii-art",
+  "version": "0.0.0",
+  "description": "Simple Atom package to convert text to ASCII art.",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "ascii-art:convert"
+  },
+  "repository": "https://github.com/mattwolfgang/ascii-art",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+      "figlet": "1.0.8"
+  }
+}
