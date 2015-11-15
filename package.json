@@ -1,5 +1,5 @@
 {
-  "name": "ascii-art",
+  "name": "matts-ascii-art",
   "main": "./lib/ascii-art",
   "version": "0.0.0",
   "description": "Simple Atom package to convert text to ASCII art.",
